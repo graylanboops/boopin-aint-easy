@@ -1,6 +1,3 @@
-```python
-# (This code integrates the five quantum-enhanced prompts into the scanner using dynamic prompt selection logic.)
-
 import os
 import sqlite3
 import logging
