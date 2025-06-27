@@ -291,4 +291,3 @@ class QuantumRiskScanner(tk.Tk):
 
 if __name__ == "__main__":
     QuantumRiskScanner().mainloop()
-```
